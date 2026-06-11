@@ -35,7 +35,7 @@ def build_pipeline():
 
 REFUSAL = "I'm only able to answer HR-related questions about Zyro Dynamics policies."
 
-HR_KEYWORDS = ["leave", "salary", "policy", "wfh", "work from home", "probation", 
+HR_KEYWORDS = ["leave", "salary", "policy", "wfh", "work from home", "probation",
                "benefit", "conduct", "onboarding", "travel", "expense", "performance",
                "review", "compensation", "harassment", "separation", "it", "data"]
 
